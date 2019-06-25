@@ -1,0 +1,15 @@
+{
+  "name": "Tic-Tac-Toe",
+  "version": "1.0.0",
+  "description": "This is a Mathematics project",
+  "main": "control.js",
+  "scripts": {
+    "start": "node ttt.js"
+  },
+  "author": "MisterCommand",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.9",
+    "cli-progress": "^2.1.1"
+  }
+}
