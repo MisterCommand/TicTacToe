@@ -5,9 +5,12 @@ This is a mathamatic project for a well-known and easy to play game Tic Tac Toe.
 
 # Usage
 ## Dependency
-*none*
+- readline-sync (1.4.9+)
+- cli-progress (2.1.1+)
 
 ## Install and run
 1. Download NodeJS (8+)
-2. Download ttt.js
-3. Run `node ttt.js`
+2. Download this directory
+3. Run `npm install` to install the dependencies
+4. Run `node controll.js`
+5. Type the number of runs per test
